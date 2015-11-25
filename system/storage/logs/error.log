@@ -237,3 +237,4 @@ Trace:
 #9 Z:\home\opencart.lh\www\system\engine\front.php(29): Front->execute(Object(Action))
 #10 Z:\home\opencart.lh\www\index.php(275): Front->dispatch(Object(Action), Object(Action))
 #11 {main}
+2015-11-25 22:27:21 - PHP Notice:  Undefined variable: entry_export in Z:\home\opencart.lh\www\admin\view\template\tool\backup.tpl on line 43
