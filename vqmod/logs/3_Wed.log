@@ -1,0 +1,26 @@
+---------- Date: 2015-11-25 23:15:32 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /admin/index.php?route=extension/module&token=9ZbZbjqHDTvFad9XHK4QRh4CgsS7X0AV
+MOD DETAILS:
+   modFile   : Z:\home\opencart.lh\www\vqmod/xml/a_vqmod_d_social_login.xml
+   id        : d_social_login
+   version   : 2.x
+   vqmver    : 2.5.0
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [admin/model/sale/customer.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-11-25 23:15:38 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /admin/index.php?route=extension/module&token=9ZbZbjqHDTvFad9XHK4QRh4CgsS7X0AV
+MOD DETAILS:
+   modFile   : Z:\home\opencart.lh\www\vqmod/xml/a_vqmod_d_social_login.xml
+   id        : d_social_login
+   version   : 2.x
+   vqmver    : 2.5.0
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [admin/model/sale/customer.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
