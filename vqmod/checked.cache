@@ -77,6 +77,11 @@ admin\controller\common\footer.php
 admin\language\english\common\footer.php
 admin\view\template\common\footer.tpl
 admin\view\template\extension\module.tpl
-admin\model\setting\setting.php
 admin\controller\module\d_social_login.php
 admin\model\module\d_social_login.php
+admin\model\setting\setting.php
+admin\model\design\layout.php
+admin\model\customer\customer_group.php
+system\config\d_social_login.php
+system\library\image.php
+admin\view\template\module\d_social_login.tpl
