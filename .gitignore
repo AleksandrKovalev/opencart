@@ -1,2 +1,3 @@
 config.php
-./vqmod/logs
+logs
+cache
